@@ -14,6 +14,9 @@ Pour le bon fonctionnement du script, on dispose de deux fichiers xls "target.xl
   
 Saisissez votre adresses dans le champs "adresse" en fonction de vos besoins. 
 
+Vous devez ensuite chercher vos données communes sous format shapefile et les insérer dans le répertoire "communes" 
+(je vous transmets un exemple dans le dossier communes)
+
 Avant de lancer le script, changer les paramètre de la fonction "desserte_et_distance()" dans main.py par vos identifiants arcgis.
 
 ©Laurent WU
