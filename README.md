@@ -19,4 +19,5 @@ Ensuite, chercher vos données communes sous format shapefile et les insérer da
 
 Avant de lancer le script, changer les paramètre de la fonction "desserte_et_distance()" dans main.py par vos identifiants arcgis.
 
+Besoin d'aide ? Contactez-moi à l'addresse : laurentwu123@gmail.com
 ©Laurent WU
