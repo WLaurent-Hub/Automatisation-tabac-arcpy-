@@ -1,4 +1,4 @@
-# Automatisation-tabac-arcpy
+# automatisation-tabac-arcpy
 
 Ce script permet d'automatiser la procédure d'une étude géomarketing sur l'implantation de débits de tabac selon le cadre législatif.
 
